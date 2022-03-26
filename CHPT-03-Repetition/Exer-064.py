@@ -11,6 +11,9 @@ that the discount amounts and the new prices are rounded to 2 decimal places whe
 they are displayed.
 """
 
+# Solution by Micheal O'Dwyer
+# https://github.com/michealodwyer26
+
 for item in range(5):
     original = 5*item + 4.95
     discounted = original / 100 * 40
