@@ -19,6 +19,6 @@ List of Exercises
 | #2 [`Hello`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-002.py) | Introduction to Programming |
 | #3 [`Area of a Room`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-003.py) | Introduction to Programming |
 | #4 [`Area of a Field`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-004.py) | Introduction to Programming |
-| #4 [`Bottle Deposits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-005.py) | Introduction to Programming |
+| #5 [`Bottle Deposits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-005.py) | Introduction to Programming |
 
 
