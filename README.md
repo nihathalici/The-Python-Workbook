@@ -13,7 +13,7 @@ Links and Appendix
 List of Exercises
 ========================================================
 
-| Exercise     | Chapter                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| #1 [Mailing Address](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-001.py) | Introduction to Programming |   |
-| #2 [Hello](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-002.py) | Introduction to Programming |   |
+| Exercise | Chapter |
+| --- | --- |
+| #1 `Mailing Address` (https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-001.py) | Introduction to Programming |
+| #2 `Hello` (https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-002.py) | Introduction to Programming |
