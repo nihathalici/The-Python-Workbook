@@ -15,7 +15,7 @@ List of Exercises
 
 | Exercise | Chapter |
 | --- | --- |
-| #011 [`Mailing Address`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-001.py) | Introduction to Programming |
+| #001 [`Mailing Address`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-001.py) | Introduction to Programming |
 | #002 [`Hello`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-002.py) | Introduction to Programming |
 | #003 [`Area of a Room`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-003.py) | Introduction to Programming |
 | #004 [`Area of a Field`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-004.py) | Introduction to Programming |
