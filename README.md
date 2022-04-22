@@ -20,5 +20,12 @@ List of Exercises
 | #3 [`Area of a Room`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-003.py) | Introduction to Programming |
 | #4 [`Area of a Field`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-004.py) | Introduction to Programming |
 | #5 [`Bottle Deposits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-005.py) | Introduction to Programming |
+| #6 [`Tax and Tip`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-006.py) | Introduction to Programming |
+| #7 [`Sum of the First n Positive Integers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-007.py) | Introduction to Programming |
+| #8 [`Widgets and Gizmos`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-008.py) | Introduction to Programming |
+| #9 [`Compound Interest`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-009.py) | Introduction to Programming |
+| #10 [`Arithmetic`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-010.py) | Introduction to Programming |
+
+
 
 
