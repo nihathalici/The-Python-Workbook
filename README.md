@@ -25,6 +25,11 @@ List of Exercises
 | #008 [`Widgets and Gizmos`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-008.py) | Introduction to Programming |
 | #009 [`Compound Interest`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-009.py) | Introduction to Programming |
 | #010 [`Arithmetic`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-010.py) | Introduction to Programming |
+| #011 [`Fuel Efficiency`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-011.py) | Introduction to Programming |
+| #012 [`Distance Between Two Points on Earth`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-012.py) | Introduction to Programming |
+| #013 [`Making Change`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-013.py) | Introduction to Programming |
+| #014 [`Height Units`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-014.py) | Introduction to Programming |
+| #015 [`Distance Units`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-015.py) | Introduction to Programming |
 
 
 
