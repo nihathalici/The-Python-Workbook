@@ -30,6 +30,13 @@ List of Exercises
 | #013 [`Making Change`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-013.py) | Introduction to Programming |
 | #014 [`Height Units`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-014.py) | Introduction to Programming |
 | #015 [`Distance Units`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-015.py) | Introduction to Programming |
+| #016 [`Area and Volume`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-016.py) | Introduction to Programming |
+| #017 [`Heat Capacity`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-017.py) | Introduction to Programming |
+| #018 [`Volume of a Cylinder`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-018.py) | Introduction to Programming |
+| #019 [`Free Fall`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-019.py) | Introduction to Programming |
+| #020 [`Ideal Gas Law`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-020.py) | Introduction to Programming |
+
+
 
 
 
