@@ -35,6 +35,11 @@ List of Exercises
 | #018 [`Volume of a Cylinder`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-018.py) | Introduction to Programming |
 | #019 [`Free Fall`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-019.py) | Introduction to Programming |
 | #020 [`Ideal Gas Law`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-020.py) | Introduction to Programming |
+| #021 [`Area of a Triangle`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-021.py) | Introduction to Programming |
+| #022 [`Area of a Triangle (Again)`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-022.py) | Introduction to Programming |
+| #023 [`Area of a Regular Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-023.py) | Introduction to Programming |
+| #024 [`Units of Time`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-024.py) | Introduction to Programming |
+| #025 [`Units of Time (Again)`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-025.py) | Introduction to Programming |
 
 
 
