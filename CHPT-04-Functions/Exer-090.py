@@ -39,8 +39,6 @@ solution to Exercise 89 to help you complete this exercise.
 ##
 # Display the complete lyrics for the song The Twelve Days of Christmas.
 #
-#from Exer-089 import my_ordinal
-
 from int_ordinal import intToOrdinal
 
 ## Display one verse of The Twelve Days of Christmas
