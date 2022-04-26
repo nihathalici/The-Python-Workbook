@@ -40,8 +40,11 @@ List of Exercises
 | #023 [`Area of a Regular Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-023.py) | Introduction to Programming |
 | #024 [`Units of Time`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-024.py) | Introduction to Programming |
 | #025 [`Units of Time (Again)`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-025.py) | Introduction to Programming |
-
-
+| #026 [`Current Time`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-026.py) | Introduction to Programming |
+| #027 [`When is Easter?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-027.py) | Introduction to Programming |
+| #028 [`Body Mass Index`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-028.py) | Introduction to Programming |
+| #029 [`Wind Chill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-029.py) | Introduction to Programming |
+| #030 [`Celsius to Fahrenheit and Kelvin`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-030.py) | Introduction to Programming |
 
 
 
