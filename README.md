@@ -46,6 +46,11 @@ List of Exercises
 | #029 [`Wind Chill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-029.py) | Introduction to Programming |
 | #030 [`Celsius to Fahrenheit and Kelvin`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-030.py) | Introduction to Programming |
 
+| #031 [`Units of Pressure`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-031.py) | Introduction to Programming |
+| #032 [`Sum of the Digits in an Integer`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-032.py) | Introduction to Programming |
+| #033 [`Sort 3 Integers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-033.py) | Introduction to Programming |
+| #034 [`Day Old Bread`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-034.py) | Introduction to Programming |
+
 
 
 
