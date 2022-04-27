@@ -7,7 +7,7 @@ Synopsis taken from the book:
 Links and Appendix
 ========================================================
 
-- Get the book: https://www.amazon.de/Python-Workbook-Introduction-Exercises-Solutions-dp-3030188728/dp/3030188728/ref=dp_ob_title_bk
+- Get the book: https://link.springer.com/book/10.1007/978-3-319-14240-1
 - About Ben Stephenson and her works: http://pages.cpsc.ucalgary.ca/~bdstephe/research.php
 
 List of Exercises
