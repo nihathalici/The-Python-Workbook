@@ -18,7 +18,6 @@ and the computed date occur in different years.
 
 # Solution by Aldo Telese
 # https://github.com/aldotele
-# Modified by nihathalici
 
 from greg_to_ord import is_leap, days_in_month, greg_to_ord_date
 
