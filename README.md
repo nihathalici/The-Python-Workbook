@@ -49,3 +49,9 @@ List of Exercises
 | #032 [`Sum of the Digits in an Integer`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-032.py) | Introduction to Programming |
 | #033 [`Sort 3 Integers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-033.py) | Introduction to Programming |
 | #034 [`Day Old Bread`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-034.py) | Introduction to Programming |
+| #035 [`Even or Odd?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-035.py) | Decision Making |
+| #036 [`Dog Years`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-036.py) | Decision Making |
+| #037 [`Vowel or Consonant`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-037.py) | Decision Making |
+| #038 [`Name That Shape`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-038.py) | Decision Making |
+| #039 [`Month Name to Number of Days`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-039.py) | Decision Making |
+| #040 [`Sound Levels`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-040.py) | Decision Making |
