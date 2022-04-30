@@ -55,3 +55,8 @@ List of Exercises
 | #038 [`Name That Shape`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-038.py) | Decision Making |
 | #039 [`Month Name to Number of Days`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-039.py) | Decision Making |
 | #040 [`Sound Levels`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-040.py) | Decision Making |
+| #041 [`Classifying Triangles`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-041.py) | Decision Making |
+| #042 [`Note to Frequency`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-042.py) | Decision Making |
+| #043 [`Frequency to Note`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-043.py) | Decision Making |
+| #044 [`Faces on Money`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-044.py) | Decision Making |
+| #045 [`Date to Holiday Name`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-045.py) | Decision Making |
