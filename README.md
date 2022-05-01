@@ -60,3 +60,8 @@ List of Exercises
 | #043 [`Frequency to Note`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-043.py) | Decision Making |
 | #044 [`Faces on Money`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-044.py) | Decision Making |
 | #045 [`Date to Holiday Name`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-045.py) | Decision Making |
+| #046 [`What Color Is That Square?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-046.py) | Decision Making |
+| #047 [`Season from Month and Day`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-047.py) | Decision Making |
+| #048 [`Birth Date to Astrological Sign`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-048.py) | Decision Making |
+| #049 [`Chinese Zodiac`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-049.py) | Decision Making |
+| #050 [`Richter Scale`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-050.py) | Decision Making |
