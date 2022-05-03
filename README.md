@@ -65,3 +65,8 @@ List of Exercises
 | #048 [`Birth Date to Astrological Sign`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-048.py) | Decision Making |
 | #049 [`Chinese Zodiac`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-049.py) | Decision Making |
 | #050 [`Richter Scale`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-050.py) | Decision Making |
+| #051 [`Roots of a Quadratic Function`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-051.py) | Decision Making |
+| #052 [`Letter Grade to Grade Points`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-052.py) | Decision Making |
+| #053 [`Grade Points to Letter Grade`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-053.py) | Decision Making |
+| #054 [`Assessing Employees`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-054.py) | Decision Making |
+| #055 [`Wavelengths of Visible Light`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-055.py) | Decision Making |
