@@ -70,3 +70,10 @@ List of Exercises
 | #053 [`Grade Points to Letter Grade`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-053.py) | Decision Making |
 | #054 [`Assessing Employees`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-054.py) | Decision Making |
 | #055 [`Wavelengths of Visible Light`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-055.py) | Decision Making |
+| #056 [`Frequency to Name`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-056.py) | Decision Making |
+| #057 [`Cell Phone Bill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-057.py) | Decision Making |
+| #058 [`Is It a Leap Year?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-058.py) | Decision Making |
+| #059 [`Next Day`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-059.py) | Decision Making |
+| #060 [`What Day of the Week Is January 1?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-060.py) | Decision Making |
+| #061 [`Is a License Plate Valid?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-061.py) | Decision Making |
+| #062 [`Roulette Payouts`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-062.py) | Decision Making |
