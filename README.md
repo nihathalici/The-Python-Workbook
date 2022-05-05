@@ -79,4 +79,4 @@ List of Exercises
 | #062 [`Roulette Payouts`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-062.py) | Decision Making |
 | #063 [`Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-063.py) | Repetition |
 | #064 [`Discount Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-064.py) | Repetition |
-| #062 [`Temperature Conversion Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-065.py) | Repetition |
+| #065 [`Temperature Conversion Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-065.py) | Repetition |
