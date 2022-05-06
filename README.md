@@ -80,3 +80,8 @@ List of Exercises
 | #063 [`Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-063.py) | Repetition |
 | #064 [`Discount Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-064.py) | Repetition |
 | #065 [`Temperature Conversion Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-065.py) | Repetition |
+| #066 [`No More Pennies`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-066.py) | Repetition |
+| #067 [`Compute the Perimeter of a Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-067.py) | Repetition |
+| #068 [`Compute a Grade Point Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-068.py) | Repetition |
+| #069 [`Admission Price`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-069.py) | Repetition |
+| #070 [`Parity Bits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-070.py) | Repetition |
