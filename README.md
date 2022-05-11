@@ -103,3 +103,7 @@ List of Exercises
 | #086 [`Taxi Fare`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-086.py) | Functions |
 | #087 [`Shipping Calculator`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-087.py) | Functions |
 
+| #088 [`Median of Three Values`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-088.py) | Functions |
+| #089 [`Convert an Integer to Its Ordinal Number`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-089.py) | Functions |
+| #090 [`The Twelve Days of Christmas`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-090.py) | Functions |
+
