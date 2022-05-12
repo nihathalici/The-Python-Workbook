@@ -105,4 +105,8 @@ List of Exercises
 | #088 [`Median of Three Values`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-088.py) | Functions |
 | #089 [`Convert an Integer to Its Ordinal Number`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-089.py) | Functions |
 | #090 [`The Twelve Days of Christmas`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-090.py) | Functions |
+| #091 [`Gregorian Date to Ordinal Date`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-091.py) | Functions |
+| #092 [`Ordinal Date to Gregorian Date`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-092.py) | Functions |
+| #093 [`Center a String in the Terminal Window`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-093.py) | Functions |
+
 
