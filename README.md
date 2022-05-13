@@ -108,5 +108,7 @@ List of Exercises
 | #091 [`Gregorian Date to Ordinal Date`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-091.py) | Functions |
 | #092 [`Ordinal Date to Gregorian Date`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-092.py) | Functions |
 | #093 [`Center a String in the Terminal Window`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-093.py) | Functions |
+| #094 [`Is It a Valid Triangle?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-094.py) | Functions |
+| #095 [`Capitalize It`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-095.py) | Functions |
 
 
