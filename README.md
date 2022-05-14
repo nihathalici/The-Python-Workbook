@@ -110,5 +110,7 @@ List of Exercises
 | #093 [`Center a String in the Terminal Window`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-093.py) | Functions |
 | #094 [`Is It a Valid Triangle?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-094.py) | Functions |
 | #095 [`Capitalize It`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-095.py) | Functions |
+| #096 [`Does a String Represent an Integer?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-096.py) | Functions |
+| #097 [`Operator Precedence`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-097.py) | Functions |
 
 
