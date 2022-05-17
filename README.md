@@ -115,3 +115,5 @@ List of Exercises
 | #098 [`Is a Number Prime?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-098.py) | Functions |
 | #099 [`Next Prime`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-099.py) | Functions |
 | #100 [`Random Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-100.py) | Functions |
+| #101 [`Random License Plate`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-101.py) | Functions |
+| #102 [`Check a Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-102.py) | Functions |
