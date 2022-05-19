@@ -117,3 +117,6 @@ List of Exercises
 | #100 [`Random Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-100.py) | Functions |
 | #101 [`Random License Plate`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-101.py) | Functions |
 | #102 [`Check a Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-102.py) | Functions |
+| #103 [`Random Good Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-103.py) | Functions |
+| #104 [`Hexadecimal and Decimal Digits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-104.py) | Functions |
+| #105 [`Arbitrary Base Conversions`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-105.py) | Functions |
