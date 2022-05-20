@@ -11,9 +11,6 @@ label should be displayed before each list of values.
 # Solution by Aldo Telese
 # https://github.com/aldotele
 
-from tkinter import N
-
-
 numbers = []
 n = input("Enter a number (blank to quit): ")
 acc = 0
