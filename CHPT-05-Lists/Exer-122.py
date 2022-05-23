@@ -20,6 +20,9 @@ translate the line into Pig Latin and display the result. You may assume that th
 entered by the user only contains lowercase letters and spaces.
 """
 
+# Solution by Aldo Telese
+# https://github.com/aldotele
+
 string = input('Enter text: ')
 res = ''
 vowels = ['a', 'e', 'i', 'o', 'u']
