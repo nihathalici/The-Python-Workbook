@@ -126,4 +126,6 @@ List of Exercises
 | #109 [`Magic Dates`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-109.py) | Functions |
 | #110 [`Sorted Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-110.py) | Lists |
 | #111 [`Reverse Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-111.py) | Lists |
+| #112 [`Remove Outliers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-112.py) | Lists |
+| #113 [`Avoiding Duplicates`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-113.py) | Lists |
 
