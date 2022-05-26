@@ -132,4 +132,6 @@ List of Exercises
 | #115 [`List of Proper Divisors`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-115.py) | Lists |
 | #116 [`Perfect Numbers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-116.py) | Lists |
 | #117 [`Only the Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-117.py) | Lists |
+| #118 [`Word by Word Palindromes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-118.py) | Lists |
+| #119 [`Below and Above Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-119.py) | Lists |
 
