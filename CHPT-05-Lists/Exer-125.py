@@ -50,58 +50,50 @@ to a random index between the position of the current element and the end of
 the list instead of randomly selecting any index.
 """
 
-# Author's solution:
-##
-# Create a deck of cards and shuffle it.
-#
-from random import randrange
-## Construct a standard deck of cards with 4 suits and 13 values per suit
-# @return a list of cards, with each card represented by two characters
+# Solution by Aldo Telese
+# https://github.com/aldotele
+
+import random
+
+values = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A']
+suits = ['s', 'h', 'd', 'c']
+
 def createDeck():
-    # Create a list to hold the cards
-    cards = []
-    # For each suit and each value
-    for suit in ["s", "h", "d", "c"]:
-        for value in ["2", "3", "4", "5", "6", "7", "8", "9", \
-                      "T", "J", "Q", "K", "A"]:
-            # Construct the card and add it to the list
-            cards.append(value + suit)
-    # Return the complete deck of cards
-    return cards
+    deck = []
+    for v in values:
+        for s in suits:
+            deck.append(v + s)
+    return deck
 
-## Shuffle a deck of cards by modifying the deck passed to the function
-# @param cards the list of cards to shuffle
-# @return (None)
-def shuffle(cards):
-    # For each card
-    for i in range(0, len(cards)):
-        # Pick a random index between the current index and the end of the list
-        other_pos = randrange(i, len(cards))
+def shuffle(deck):
+    for i in range(0, len(deck)):
+        other_pos = random.randrange(0, len(deck))
+        swap = deck[i]
+        deck[i] = deck[other_pos]
+        deck[other_pos] = swap
+    return deck
 
-        # Swap the current card with the one at the random position
-        temp = cards[i]
-        cards[i] = cards[other_pos]
-        cards[other_pos] = temp
+def check_deck(d):
+    di = dict()
+    for c in d:
+        if c not in di:
+            di[c] = 1
+        else:
+            return False
+    return True
 
-# Display a deck of cards before and after it has been shuffled
 def main():
-    cards = createDeck()
-    print("The original deck of cards is: ")
-    print(cards)
+    mydeck = createDeck()
+    print('Ordered deck: ')
+    print(mydeck)
     print()
+    mydeck_shuffle = shuffle(mydeck)
+    print('Shuffled deck: ')
+    print(mydeck_shuffle)
+    print()
+    print('The deck has no repetitions:')
+    print('>>>', check_deck(mydeck_shuffle))
+    
 
-    shuffle(cards)
-    print("The shuffled deck of cards is: ")
-    print(cards)
-
-# Call the main function only if this file has not been imported into another program
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
-
-        
-        
-            
-            
-    
-    
-
