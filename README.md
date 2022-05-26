@@ -10,6 +10,14 @@ Links and Appendix
 - Get the book: https://link.springer.com/book/10.1007/978-3-319-14240-1
 - About Ben Stephenson and her works: http://pages.cpsc.ucalgary.ca/~bdstephe/research.php
 
+GitHub
+========================================================
+
+- A serious implementation of the projects by Aldo Telese:  
+
+https://github.com/aldotele/the_python_workbook
+
+
 List of Exercises
 ========================================================
 
