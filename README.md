@@ -142,4 +142,6 @@ List of Exercises
 | #117 [`Only the Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-117.py) | Lists |
 | #118 [`Word by Word Palindromes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-118.py) | Lists |
 | #119 [`Below and Above Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-119.py) | Lists |
+| #120 [`Formatting a List`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-120.py) | Lists |
+| #121 [`Random Lottery Numbers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-121.py) | Lists |
 
