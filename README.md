@@ -152,3 +152,4 @@ List of Exercises
 | #127 [`Is a List already in Sorted Order?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-127.py) | Lists |
 | #128 [`Count the Elements`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-128.py) | Lists |
 | #129 [`Tokenizing a String`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-129.py) | Lists |
+| #130 [`Unary and Binary Operators`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-130.py) | Lists |
