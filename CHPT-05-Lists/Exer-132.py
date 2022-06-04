@@ -9,7 +9,6 @@ consider. A postfix expression can be evaluated using the following algorithm:
 # Solution by Aldo Telese
 # https://github.com/aldotele
 
-from ast import Expression
 from infix_to_postfix import infix_to_postfix
 from tokenizing_string import tokenList
 from is_integer import isInteger
