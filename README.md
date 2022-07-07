@@ -171,5 +171,7 @@ List of Exercises
 | #146 [`Create a Bingo Card`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-146.py) | Dictionaries |
 | #147 [`Checking for a Winning Card`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-147.py) | Dictionaries |
 | #148 [`Play Bingo`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-148.py) | Dictionaries |
+| #149 [`Display the Head of a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-149.py) | Files and Exceptions |
+| #150 [`Display the Tail of a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-150.py) | Files and Exceptions |
 
 
