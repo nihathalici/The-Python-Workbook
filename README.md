@@ -178,5 +178,10 @@ List of Exercises
 | #153 [`Find the Longest Word in a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-153.py) | Files and Exceptions |
 | #154 [`Letter Frequencies`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-154.py) | Files and Exceptions |
 | #155 [`Words that Occur Most`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-155.py) | Files and Exceptions |
+| #156 [`Sum a Collection of Numbers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-156.py) | Files and Exceptions |
+| #157 [`Both Letter Grades and Grade Points`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-157.py) | Files and Exceptions |
+| #158 [`Remove Comments`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-158.py) | Files and Exceptions |
+| #159 [`Two Word Random Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-159.py) | Files and Exceptions |
+| #160 [`Weird Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-160.py) | Files and Exceptions |
 
 
