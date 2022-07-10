@@ -183,5 +183,8 @@ List of Exercises
 | #158 [`Remove Comments`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-158.py) | Files and Exceptions |
 | #159 [`Two Word Random Password`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-159.py) | Files and Exceptions |
 | #160 [`Weird Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-160.py) | Files and Exceptions |
-
-
+| #161 [`What’s that Element Again?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-161.py) | Files and Exceptions |
+| #162 [`A Book with No E...`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-162.py) | Files and Exceptions |
+| #163 [`Names that Reached Number One`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-163.py) | Files and Exceptions |
+| #164 [`Gender Neutral Names`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-164.py) | Files and Exceptions |
+| #165 [`Most Births in a given Time Period`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-165.py) | Files and Exceptions |
