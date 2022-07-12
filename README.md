@@ -188,3 +188,8 @@ List of Exercises
 | #163 [`Names that Reached Number One`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-163.py) | Files and Exceptions |
 | #164 [`Gender Neutral Names`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-164.py) | Files and Exceptions |
 | #165 [`Most Births in a given Time Period`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-165.py) | Files and Exceptions |
+| #166 [`Distinct Names`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-166.py) | Files and Exceptions |
+| #167 [`Spell Checker`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-167.py) | Files and Exceptions |
+| #168 [`Repeated Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-168.py) | Files and Exceptions |
+| #169 [`Redacting Text in a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-169.py) | Files and Exceptions |
+| #170 [`Missing Comments`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-170.py) | Files and Exceptions |
