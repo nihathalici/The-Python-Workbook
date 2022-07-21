@@ -193,3 +193,13 @@ List of Exercises
 | #168 [`Repeated Words`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-168.py) | Files and Exceptions |
 | #169 [`Redacting Text in a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-169.py) | Files and Exceptions |
 | #170 [`Missing Comments`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-170.py) | Files and Exceptions |
+| #171 [`Consistent Line Lengths`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-171.py) | Files and Exceptions |
+| #172 [`Words with Six Vowels in Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-172.py) | Files and Exceptions |
+| #173 [`Total the Values`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-173.py) | Recursion |
+| #174 [`Greatest Common Divisor`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-174.py) | Recursion |
+| #175 [`Recursive Decimal to Binary`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-175.py) | Recursion |
+| #176 [`The NATO Phonetic Alphabet`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-176.py) | Recursion |
+| #177 [`Roman Numerals`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-177.py) | Recursion |
+| #178 [`Recursive Palindrome`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-178.py) | Recursion |
+| #179 [`Recursive Square Root`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-179.py) | Recursion |
+| #180 [`String Edit Distance`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-08-Recursion/Exer-180.py) | Recursion |
