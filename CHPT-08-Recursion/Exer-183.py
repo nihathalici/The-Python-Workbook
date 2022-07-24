@@ -21,7 +21,7 @@ denum and Magnesium as your first test cases. Each has a longest sequence
 that is only 8 elements long which your program should find in a fraction of a
 second.
 """
-
+# Author's solution:
 ##
 # Identify the longest sequence of elements that can follow an element entered by the
 # user where each element in the sequence begins with the same letter as the last letter
