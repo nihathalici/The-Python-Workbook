@@ -6,6 +6,8 @@
 List of Exercises
 ========================================================
 
+| Exercise | Chapter |
+| --- | --- |
 | #063 [`Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-063.py) | Repetition |
 | #064 [`Discount Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-064.py) | Repetition |
 | #065 [`Temperature Conversion Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-065.py) | Repetition |
