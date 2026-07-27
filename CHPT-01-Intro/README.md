@@ -1,6 +1,4 @@
 # The Python Workbook
-# Chapter-1
-# Introduction to Programming
 
 List of Exercises
 ========================================================
@@ -41,6 +39,7 @@ List of Exercises
 | #032 [`Sum of the Digits in an Integer`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-032.py) | Introduction to Programming |
 | #033 [`Sort 3 Integers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-033.py) | Introduction to Programming |
 | #034 [`Day Old Bread`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-034.py) | Introduction to Programming |
+| #035 [`Even or Odd?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-035.py) | Decision Making |
 
 Links and Appendix
 ========================================================
