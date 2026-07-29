@@ -40,6 +40,7 @@ List of Exercises
 | #033 [`Sort 3 Integers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-033.py) | Introduction to Programming |
 | #034 [`Day Old Bread`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-01-Intro/Exer-034.py) | Introduction to Programming |
 | #035 [`Even or Odd?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-035.py) | Decision Making |
+| #036 [`Dog Years`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-036.py) | Decision Making |
 
 Links and Appendix
 ========================================================
