@@ -43,6 +43,7 @@ List of Exercises
 | #036 [`Dog Years`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-036.py) | Decision Making |
 | #037 [`Vowel or Consonant`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-037.py) | Decision Making |
 | #038 [`Name That Shape`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-038.py) | Decision Making |
+| #039 [`Month Name to Number of Days`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-039.py) | Decision Making |
 
 Links and Appendix
 ========================================================
