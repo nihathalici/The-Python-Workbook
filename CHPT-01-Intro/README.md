@@ -47,6 +47,7 @@ List of Exercises
 | #040 [`Sound Levels`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-040.py) | Decision Making |
 | #041 [`Classifying Triangles`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-041.py) | Decision Making |
 | #042 [`Note to Frequency`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-042.py) | Decision Making |
+| #043 [`Frequency to Note`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-043.py) | Decision Making |
 
 Links and Appendix
 ========================================================
