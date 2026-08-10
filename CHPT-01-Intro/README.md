@@ -53,6 +53,7 @@ List of Exercises
 | #046 [`What Color Is That Square?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-046.py) | Decision Making |
 | #047 [`Season from Month and Day`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-047.py) | Decision Making |
 | #048 [`Birth Date to Astrological Sign`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-MakingExer-048.py) | Decision Making |
+| #049 [`Chinese Zodiac`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-049.py) | Decision Making |
 
 Links and Appendix
 ========================================================
