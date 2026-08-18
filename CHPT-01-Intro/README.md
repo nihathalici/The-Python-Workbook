@@ -61,6 +61,8 @@ List of Exercises
 | #054 [`Assessing Employees`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-054.py) | Decision Making |
 | #055 [`Wavelengths of Visible Light`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-055.py) | Decision Making |
 | #056 [`Frequency to Name`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-056.py) | Decision Making |
+| #057 [`Cell Phone Bill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-057.py) | Decision Making |
+
 
 Links and Appendix
 ========================================================
