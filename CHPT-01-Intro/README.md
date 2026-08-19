@@ -62,6 +62,8 @@ List of Exercises
 | #055 [`Wavelengths of Visible Light`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-055.py) | Decision Making |
 | #056 [`Frequency to Name`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-056.py) | Decision Making |
 | #057 [`Cell Phone Bill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-057.py) | Decision Making |
+| #058 [`Is It a Leap Year?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-058.py) | Decision Making |
+
 
 
 Links and Appendix
