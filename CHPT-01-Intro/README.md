@@ -64,6 +64,7 @@ List of Exercises
 | #057 [`Cell Phone Bill`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-057.py) | Decision Making |
 | #058 [`Is It a Leap Year?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-058.py) | Decision Making |
 | #059 [`Next Day`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-059.py) | Decision Making |
+| #060 [`What Day of the Week Is January 1?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-060.py) | Decision Making |
 
 
 
