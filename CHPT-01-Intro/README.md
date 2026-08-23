@@ -66,6 +66,7 @@ List of Exercises
 | #059 [`Next Day`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-059.py) | Decision Making |
 | #060 [`What Day of the Week Is January 1?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-060.py) | Decision Making |
 | #061 [`Is a License Plate Valid?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-061.py) | Decision Making |
+| #062 [`Roulette Payouts`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-062.py) | Decision Making |
 
 
 
