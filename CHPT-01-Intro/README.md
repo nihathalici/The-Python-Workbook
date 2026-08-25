@@ -68,6 +68,8 @@ List of Exercises
 | #061 [`Is a License Plate Valid?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-061.py) | Decision Making |
 | #062 [`Roulette Payouts`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-02-Decision-Making/Exer-062.py) | Decision Making |
 | #063 [`Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-063.py) | Repetition |
+| #064 [`Discount Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-064.py) | Repetition |
+
 
 
 Links and Appendix
