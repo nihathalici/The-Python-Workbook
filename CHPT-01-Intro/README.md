@@ -72,6 +72,8 @@ List of Exercises
 | #065 [`Temperature Conversion Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-065.py) | Repetition |
 | #066 [`No More Pennies`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-066.py) | Repetition |
 | #067 [`Compute the Perimeter of a Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-067.py) | Repetition |
+| #068 [`Compute a Grade Point Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-068.py) | Repetition |
+
 
 
 
