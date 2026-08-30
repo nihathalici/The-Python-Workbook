@@ -73,8 +73,7 @@ List of Exercises
 | #066 [`No More Pennies`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-066.py) | Repetition |
 | #067 [`Compute the Perimeter of a Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-067.py) | Repetition |
 | #068 [`Compute a Grade Point Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-068.py) | Repetition |
-
-
+| #069 [`Admission Price`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-069.py) | Repetition |
 
 
 Links and Appendix
