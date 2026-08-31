@@ -74,6 +74,7 @@ List of Exercises
 | #067 [`Compute the Perimeter of a Polygon`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-067.py) | Repetition |
 | #068 [`Compute a Grade Point Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-068.py) | Repetition |
 | #069 [`Admission Price`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-069.py) | Repetition |
+| #070 [`Parity Bits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-070.py) | Repetition |
 
 
 Links and Appendix
