@@ -75,6 +75,7 @@ List of Exercises
 | #068 [`Compute a Grade Point Average`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-068.py) | Repetition |
 | #069 [`Admission Price`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-069.py) | Repetition |
 | #070 [`Parity Bits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-070.py) | Repetition |
+| #071 [`Approximate π`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-071.py) | Repetition |
 
 
 Links and Appendix
