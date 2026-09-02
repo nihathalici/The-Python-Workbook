@@ -77,6 +77,7 @@ List of Exercises
 | #070 [`Parity Bits`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-070.py) | Repetition |
 | #071 [`Approximate π`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-071.py) | Repetition |
 | #072 [`Fizz-Buzz`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-072.py) | Repetition |
+| #073 [`Caesar Cipher`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-073.py) | Repetition |
 
 
 Links and Appendix
