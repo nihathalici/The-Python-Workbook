@@ -80,6 +80,7 @@ List of Exercises
 | #073 [`Caesar Cipher`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-073.py) | Repetition |
 | #074 [`Square Root`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-074.py) | Repetition |
 | #075 [`Is a String a Palindrome?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-075.py) | Repetition |
+| #076 [`Multiple Word Palindromes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-076.py) | Repetition |
 
 
 Links and Appendix
