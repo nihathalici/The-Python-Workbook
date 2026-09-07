@@ -81,6 +81,7 @@ List of Exercises
 | #074 [`Square Root`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-074.py) | Repetition |
 | #075 [`Is a String a Palindrome?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-075.py) | Repetition |
 | #076 [`Multiple Word Palindromes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-076.py) | Repetition |
+| #077 [`Multiplication Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-077.py) | Repetition |
 
 
 Links and Appendix
