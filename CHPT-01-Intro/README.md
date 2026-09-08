@@ -82,6 +82,7 @@ List of Exercises
 | #075 [`Is a String a Palindrome?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-075.py) | Repetition |
 | #076 [`Multiple Word Palindromes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-076.py) | Repetition |
 | #077 [`Multiplication Table`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-077.py) | Repetition |
+| #078 [`The Collatz Conjecture`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-078.py) | Repetition |
 
 
 Links and Appendix
