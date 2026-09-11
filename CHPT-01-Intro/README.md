@@ -85,6 +85,8 @@ List of Exercises
 | #078 [`The Collatz Conjecture`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-078.py) | Repetition |
 | #079 [`Greatest Common Divisor`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-079.py) | Repetition |
 | #080 [`Prime Factors`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-080.py) | Repetition |
+| #081 [`Binary to Decimal`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-081.py) | Repetition |
+
 
 
 
