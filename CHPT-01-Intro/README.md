@@ -87,6 +87,7 @@ List of Exercises
 | #080 [`Prime Factors`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-080.py) | Repetition |
 | #081 [`Binary to Decimal`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-081.py) | Repetition |
 | #082 [`Decimal to Binary`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-082.py) | Repetition |
+| #083 [`Maximum Integer`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-03-Repetition/Exer-083.py) | Repetition |
 
 
 
