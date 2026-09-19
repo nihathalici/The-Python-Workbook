@@ -92,7 +92,7 @@ List of Exercises
 | #085 [`Compute the Hypotenuse`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-085.py) | Functions |
 | #086 [`Taxi Fare`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-086.py) | Functions |
 | #087 [`Shipping Calculator`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-087.py) | Functions |
-
+| #088 [`Median of Three Values`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-088.py) | Functions |
 
 
 Links and Appendix
