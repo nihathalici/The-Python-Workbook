@@ -102,6 +102,8 @@ List of Exercises
 | #095 [`Capitalize It`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-095.py) | Functions |
 | #096 [`Does a String Represent an Integer?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-096.py) | Functions |
 | #097 [`Operator Precedence`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-097.py) | Functions |
+| #098 [`Is a Number Prime?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-098.py) | Functions |
+
 
 
 Links and Appendix
