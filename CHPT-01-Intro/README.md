@@ -103,6 +103,7 @@ List of Exercises
 | #096 [`Does a String Represent an Integer?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-096.py) | Functions |
 | #097 [`Operator Precedence`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-097.py) | Functions |
 | #098 [`Is a Number Prime?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-098.py) | Functions |
+| #099 [`Next Prime`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-099.py) | Functions |
 
 
 
