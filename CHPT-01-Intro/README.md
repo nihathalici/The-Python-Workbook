@@ -114,6 +114,7 @@ List of Exercises
 | #107 [`Reduce a Fraction to Lowest Terms`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-107.py) | Functions |
 | #108 [`Reduce Measures`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-108.py) | Functions |
 | #109 [`Magic Dates`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-04-Functions/Exer-109.py) | Functions |
+| #110 [`Sorted Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-110.py) | Lists |
 
 
 
