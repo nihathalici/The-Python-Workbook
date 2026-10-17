@@ -117,6 +117,8 @@ List of Exercises
 | #110 [`Sorted Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-110.py) | Lists |
 | #111 [`Reverse Order`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-111.py) | Lists |
 | #112 [`Remove Outliers`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-112.py) | Lists |
+| #113 [`Avoiding Duplicates`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-113.py) | Lists |
+
 
 
 
