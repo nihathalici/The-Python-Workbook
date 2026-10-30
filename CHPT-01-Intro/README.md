@@ -129,6 +129,7 @@ List of Exercises
 | #122 [`Pig Latin`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-122.py) | Lists |
 | #123 [`Pig Latin Improved`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-123.py) | Lists |
 | #124 [`Line of Best Fit`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-124.py) | Lists |
+| #125 [`Shuffling a Deck of Cards`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-125.py) | Lists |
 
 
 
