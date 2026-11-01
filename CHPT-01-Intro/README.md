@@ -131,6 +131,7 @@ List of Exercises
 | #124 [`Line of Best Fit`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-124.py) | Lists |
 | #125 [`Shuffling a Deck of Cards`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-125.py) | Lists |
 | #126 [`Dealing Hands of Cards`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-126.py) | Lists |
+| #127 [`Is a List already in Sorted Order?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-127.py) | Lists |
 
 
 
