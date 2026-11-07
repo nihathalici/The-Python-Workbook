@@ -137,7 +137,7 @@ List of Exercises
 | #130 [`Unary and Binary Operators`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-130.py) | Lists |
 | #131 [`Infix to Postfix`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-131.py) | Lists |
 | #132 [`Evaluate Postfix`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-132.py) | Lists |
-
+| #133 [`Does a List Contain a Sublist?`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-133.py) | Lists |
 
 
 Links and Appendix
