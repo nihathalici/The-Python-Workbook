@@ -141,7 +141,7 @@ List of Exercises
 | #134 [`Generate All Sublists of a List`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-134.py) | Lists |
 | #135 [`The Sieve of Eratosthenes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-135.py) | Lists |
 | #136 [`Reverse Lookup`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-136.py) | Dictionaries |
-
+| #137 [`Two Dice Simulation`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-137.py) | Dictionaries |
 
 Links and Appendix
 ========================================================
