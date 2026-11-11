@@ -142,6 +142,7 @@ List of Exercises
 | #135 [`The Sieve of Eratosthenes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-05-Lists/Exer-135.py) | Lists |
 | #136 [`Reverse Lookup`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-136.py) | Dictionaries |
 | #137 [`Two Dice Simulation`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-137.py) | Dictionaries |
+| #138 [`Text Messaging`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-138.py) | Dictionaries |
 
 Links and Appendix
 ========================================================
