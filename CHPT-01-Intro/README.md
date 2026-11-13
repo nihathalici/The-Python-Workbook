@@ -144,6 +144,8 @@ List of Exercises
 | #137 [`Two Dice Simulation`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-137.py) | Dictionaries |
 | #138 [`Text Messaging`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-138.py) | Dictionaries |
 | #139 [`Morse Code`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-139.py) | Dictionaries |
+| #140 [`Postal Codes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-140.py) | Dictionaries |
+
 
 Links and Appendix
 ========================================================
