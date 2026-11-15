@@ -145,6 +145,7 @@ List of Exercises
 | #138 [`Text Messaging`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-138.py) | Dictionaries |
 | #139 [`Morse Code`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-139.py) | Dictionaries |
 | #140 [`Postal Codes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-140.py) | Dictionaries |
+| #141 [`Write out Numbers in English`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-141.py) | Dictionaries |
 
 
 Links and Appendix
