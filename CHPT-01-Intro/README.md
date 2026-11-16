@@ -146,6 +146,7 @@ List of Exercises
 | #139 [`Morse Code`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-139.py) | Dictionaries |
 | #140 [`Postal Codes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-140.py) | Dictionaries |
 | #141 [`Write out Numbers in English`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-141.py) | Dictionaries |
+| #142 [`Unique Characters`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-142.py) | Dictionaries |
 
 
 Links and Appendix
