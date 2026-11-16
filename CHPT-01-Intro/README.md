@@ -147,6 +147,8 @@ List of Exercises
 | #140 [`Postal Codes`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-140.py) | Dictionaries |
 | #141 [`Write out Numbers in English`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-141.py) | Dictionaries |
 | #142 [`Unique Characters`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-142.py) | Dictionaries |
+| #143 [`Anagrams`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-143.py) | Dictionaries |
+
 
 
 Links and Appendix
