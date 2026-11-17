@@ -148,7 +148,7 @@ List of Exercises
 | #141 [`Write out Numbers in English`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-141.py) | Dictionaries |
 | #142 [`Unique Characters`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-142.py) | Dictionaries |
 | #143 [`Anagrams`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-143.py) | Dictionaries |
-
+| #144 [`Anagrams Again`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-144.py) | Dictionaries |
 
 
 Links and Appendix
