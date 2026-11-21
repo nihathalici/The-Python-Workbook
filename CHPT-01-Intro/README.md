@@ -151,6 +151,7 @@ List of Exercises
 | #144 [`Anagrams Again`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-144.py) | Dictionaries |
 | #145 [`Scrabble Score`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-145.py) | Dictionaries |
 | #146 [`Create a Bingo Card`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-146.py) | Dictionaries |
+| #147 [`Checking for a Winning Card`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-06-Dictionaries/Exer-147.py) | Dictionaries |
 
 Links and Appendix
 ========================================================
