@@ -156,6 +156,7 @@ List of Exercises
 | #149 [`Display the Head of a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-149.py) | Files and Exceptions |
 | #150 [`Display the Tail of a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-150.py) | Files and Exceptions |
 | #151 [`Concatenate Multiple Files`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-151.py) | Files and Exceptions |
+| #152 [`Number the Lines in a File`](https://github.com/nihathalici/The-Python-Workbook/blob/main/CHPT-07-Files-and-Exceptions/Exer-152.py) | Files and Exceptions |
 
 Links and Appendix
 ========================================================
